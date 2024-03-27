@@ -7,4 +7,4 @@ Dataset= "https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces"
 
 Web application interface
  
-https://github.com/kj3010/Final-Year-Project/issues/3
+https://github.com/kj3010/Final-Year-Project/issues/3#issue-2209887082
