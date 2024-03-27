@@ -4,6 +4,8 @@ The Streamlit interface provides a user-friendly platform for uploading images a
 
 Dataset= "https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces"
 
-Web application interface
+Web Application Interface
  
-https://github.com/kj3010/Final-Year-Project/issues/3#issue-2209887082
+https://github.com/kj3010/Final-Year-Project/assets/112198485/a4b04130-69af-4ee8-91b9-5e54f0077896
+
+
